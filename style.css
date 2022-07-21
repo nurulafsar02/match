@@ -56,7 +56,9 @@ footer{
     background-color: black;
    
 }
-/*mobile view*/{
+/*mobile view*/
+
+@media screen and (max-width:576px) {
 
 section{
     display: inline;
